@@ -1,5 +1,5 @@
 # 💫 About Me:
-# I'm currently working on React.js, Node.js, MySQL, Redis, React Native, Docker, and AWS Services<br># Also, experienced in Angular, PHP, Laravel, MongoDB, and Flutter.<br># I'm currently learning LangChain, AWS OCR<br># I'm fun at coding and improving code all the time
+# I'm currently working on React.js, Node.js, MySQL, Redis, React Native, Docker, and AWS Services<br># Also, experienced in Angular, PHP, Laravel, MongoDB, and Flutter.<br># I'm currently learning LangChain, AWS TEXTRACT<br># I'm fun at coding and improving code all the time
 
 
 # 💻 Tech Stack:
